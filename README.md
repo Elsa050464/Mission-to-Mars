@@ -15,7 +15,7 @@ The Mission of this project is to learn to scrape information pertaining to Mars
 •	Featured Image<br>
 •	Facts about the planet<br>
 •	Mars Hemispheres
-## Resources: ### Web pages scraped:
+## Resources: Web pages scraped:
 •	https://data-class-mars.s3.amazonaws.com/Mars/index.html <br>
 •	https://spaceimages-mars.com <br>
 •	https://galaxyfacts-mars.com <br>
