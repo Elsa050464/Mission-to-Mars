@@ -1,6 +1,4 @@
 # Mission-to-Mars
-
-
 ## Overview
 The Mission of this project is to learn to scrape information pertaining to Mars using various applications to name:
 1.	Python
@@ -12,9 +10,7 @@ The Mission of this project is to learn to scrape information pertaining to Mars
 7.	Flask
 8.	HTML and 
 9.	Bootstrap 
-
 <br>
-
 ## Through the process, I learn how to scrape the following: 
 **•	Latest News**
 **•	Featured Image**
@@ -26,19 +22,13 @@ The Mission of this project is to learn to scrape information pertaining to Mars
 ***•	https://spaceimages-mars.com*** <br>
 ***•	https://galaxyfacts-mars.com*** <br>
 ***•	https://marshemispheres.com*** <br>
-
 ** Summary
 <br>
 *** Here are the results: 
 Mars Hemispheres
-<Br>
 ![Mars Hemispheres](https://user-images.githubusercontent.com/93121665/151752034-55f746ab-7605-489f-8e2c-22f6b1236776.PNG)
-
-<br>
 Full Screen
 ![Mission to Mars](https://user-images.githubusercontent.com/93121665/151751929-2cd6393e-f065-4bff-ab24-0cec9c3da43d.PNG)
-<br>
 !https://github.com/Elsa050464/Mission-to-Mars/blob/main/Resources/Mission%20to%20Mars.PNG
- <br>
 Adaptive to any portable device views 
 ![Adaptable portable device](https://user-images.githubusercontent.com/93121665/151750817-746fc20b-373d-4f61-9564-c1d2a4de0e06.PNG)
