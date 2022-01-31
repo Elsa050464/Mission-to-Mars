@@ -26,3 +26,5 @@ Web pages scraped:
 ** Summary
 Here are the results: 
 https://github.com/Elsa050464/Mission-to-Mars/blob/main/Resources/Mission%20to%20Mars.PNG
+https://github.com/Elsa050464/Mission-to-Mars/blob/main/Resources/Mission%20to%20Mars.PNG
+![Adaptable portable device](https://user-images.githubusercontent.com/93121665/151750817-746fc20b-373d-4f61-9564-c1d2a4de0e06.PNG)
