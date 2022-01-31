@@ -10,7 +10,7 @@ The Mission of this project is to learn to scrape information pertaining to Mars
 7.	Flask
 8.	HTML and 
 9.	Bootstrap 
-## Through the process, I learn how to scrape the following: <br>
+### Through the process, I learn how to scrape the following: <br>
 •	Latest News<br>
 •	Featured Image<br>
 •	Facts about the planet<br>
